@@ -1,0 +1,13 @@
+com\app\core\panda\sflt\repositorio\controller\dao\NombresDao.class
+com\app\core\panda\sflt\servicio\NombresServicio.class
+com\app\core\panda\sflt\persistencia\PandaCoreSlftPercistencia.class
+com\app\core\panda\sflt\resources\JakartaEE10Resource.class
+com\app\core\panda\sflt\repositorio\controller\NombresRestController.class
+com\app\core\panda\sflt\repositorio\NombresRepositorio.class
+com\app\core\panda\sflt\servicio\NombreServicioImp.class
+com\app\core\panda\sflt\repositorio\controller\NombresControlador.class
+com\app\core\panda\sflt\persistencia\PandaCoreSfltPercistenciaImp.class
+com\app\core\panda\sflt\entidad\Nombres.class
+com\app\core\panda\sflt\entidad\Nombres_.class
+com\app\core\panda\sflt\entidad\Nombres$NombresBuilder.class
+com\app\core\panda\sflt\JakartaRestConfiguration.class
